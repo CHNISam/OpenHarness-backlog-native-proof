@@ -2,4 +2,6 @@
 
 No private adopter data. Explicit Genesis deployment verification.
 
-Native proof candidate: blocked-dependency.
+Representative legal Genesis integration candidate.
+
+Refreshed negative proof: blocked-dependency.
