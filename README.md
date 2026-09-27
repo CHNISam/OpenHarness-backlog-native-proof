@@ -3,3 +3,5 @@
 No private adopter data. Explicit Genesis deployment verification.
 
 Representative legal Genesis integration candidate.
+
+Native proof candidate: stale-work.
