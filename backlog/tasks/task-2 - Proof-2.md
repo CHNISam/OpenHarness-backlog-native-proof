@@ -2,7 +2,7 @@
 id: task-2
 title: Proof 2
 status: To Do
-assignee: ["@other"]
+assignee: ["@owner"]
 dependencies: []
 labels: []
 created_date: "2026-09-27"
