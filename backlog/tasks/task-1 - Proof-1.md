@@ -1,7 +1,7 @@
 ---
 id: task-1
 title: Proof 1
-status: To Do
+status: Done
 assignee: ["@owner"]
 dependencies: []
 labels: []
