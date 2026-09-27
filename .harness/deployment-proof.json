@@ -1,0 +1,55 @@
+{
+  "schema": 1,
+  "repository": "CHNISam/OpenHarness-backlog-native-proof",
+  "policy": "19f0725ef36ead9187fc79e6e01cc1b2cdf75fa6e621f9dc5f1c94fc39706bf3",
+  "cases": {
+    "valid": {
+      "pr": 1,
+      "head": "792218fb3e2f36ea5950947b6a1cd43c05a294dc"
+    },
+    "invalid": {
+      "pr": 4,
+      "head": "7512cbac974867019b19794e00e2570cb0fa5633",
+      "rule_suite_id": 4244567228
+    },
+    "source-spoof": {
+      "pr": 5,
+      "head": "e69456283851656de332c56807636021b1271314",
+      "rule_suite_id": 4244567462,
+      "blocked_run": 36291100631
+    },
+    "direct-update": {
+      "head": "7512cbac974867019b19794e00e2570cb0fa5633",
+      "rule_suite_id": 4244554235
+    }
+  },
+  "work_cases": {
+    "wrong-executor": {
+      "pr": 2,
+      "head": "7b199c44554dbf24d9dd61b1db7b57c83f40265a",
+      "rule_suite_id": 4244573784
+    },
+    "blocked-dependency": {
+      "pr": 3,
+      "head": "ed45afaea81b02584ebf14f0c6bf9d1a18d54e61",
+      "rule_suite_id": 4244574013
+    },
+    "self-authority": {
+      "pr": 6,
+      "head": "adebba169f9b5229eee6c653b547877419930180",
+      "rule_suite_id": 4244567656
+    },
+    "invalid-completion": {
+      "pr": 7,
+      "head": "dfbe96e0d121a8ba61b12777777bf5ec86593a31",
+      "rule_suite_id": 4244567955
+    },
+    "stale-work": {
+      "pr": 8,
+      "head": "df245c77b94392b977baef0a336404574ef628d1",
+      "rule_suite_id": 4244620770,
+      "accepted_run": 36291130204,
+      "task": "task-7"
+    }
+  }
+}
